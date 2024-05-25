@@ -1,3 +1,3 @@
 EDA Project
 Title: Spotify Analytics
-Membber: Chrysa, Froso, Antonis
+Membbers: Chrysa, Froso, Antonis
